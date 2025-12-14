@@ -1,0 +1,10 @@
+gradio==6.1.0
+transformers==4.57.1
+numpy
+torch
+torchvision
+accelerate
+qwen-vl-utils
+requests
+pillow
+spaces
