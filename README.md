@@ -1,6 +1,6 @@
 # **Herculis-CUA-GUI-Actioner-4B-Demo**
 
-> Herculis-CUA-GUI-Actioner-4B is a Computer Use Agent (CUA) multimodal model designed for GUI understanding, UI localization, and action execution across web, desktop, and mobile environments. It focuses on visual grounding, intent-driven actioning, and UI-based question answering (VQA), enabling reliable interaction with real-world software interfaces. The model is optimized for efficient inference while maintaining strong accuracy on complex UI workflows.
+> Gradio Demo: Herculis-CUA-GUI-Actioner-4B is a Computer Use Agent (CUA) multimodal model designed for GUI understanding, UI localization, and action execution across web, desktop, and mobile environments. It focuses on visual grounding, intent-driven actioning, and UI-based question answering (VQA), enabling reliable interaction with real-world software interfaces. The model is optimized for efficient inference while maintaining strong accuracy on complex UI workflows.
 
 ## Features
 
